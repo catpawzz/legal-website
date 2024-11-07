@@ -68,6 +68,18 @@
                             <a href="https://github.com/french-femboi/Catkeys" class="text-green-300 hover:text-green-100">GIT</a> 
                         </td>
                     </tr>
+                    <tr>
+                        <td class="py-3 px-4 border-b border-gray-700 text-gray-300">Learn With Catpawz</td>
+                        <td class="py-3 px-4 border-b border-gray-700 text-gray-300">Code learning app</td>
+                        <td class="py-3 px-4 border-b border-gray-700">
+                            <span class="inline-block py-1 px-2 rounded-full text-xs font-semibold text-green-200 bg-green-900">07/11/2024</span>
+                        </td>
+                        <td class="py-3 px-4 border-b border-gray-700 text-gray-300">
+                            <a href="/lwc-privacy" class="text-green-300 hover:text-green-100">PRIV</a> - 
+                            <a href="/lwc-tos" class="text-green-300 hover:text-green-100">TOS</a> - 
+                            <a href="https://github.com/french-femboi/lwc" class="text-green-300 hover:text-green-100">GIT</a> 
+                        </td>
+                    </tr>
                 </tbody>
             </table>
         </div>

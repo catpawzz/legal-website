@@ -66,7 +66,7 @@
             <p>We may update this Privacy Policy from time to time. If we make any significant changes, we will notify users via the app or other means. We encourage you to review this policy periodically to stay informed about how we protect your privacy.</p>
             <br><br>
             <h2>6. Contact Us</h2><br>
-            <p>If you have any questions or concerns about this Privacy Policy, feel free to reach out to us at <a href="mailto:cat@french-femboi.eu">cat@french-femboi.eu</a>. We will be happy to assist you! 😺</p>
+            <p>If you have any questions or concerns about this Privacy Policy, feel free to reach out to us at <a href="mailto:cat@catpawz.net">cat@catpawz.net</a>. We will be happy to assist you! 😺</p>
             <br><br>
             <p>Thank you for trusting CatKeys. We hope you enjoy using the app! 😸❤️</p>
 
