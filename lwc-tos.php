@@ -37,7 +37,7 @@
         </div>
         <div class="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-32 lg:flex lg:px-8 lg:py-40">
             <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
-                <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">CatKeys - Terms Of Service</h1>
+                <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Learn With Catpawz - Terms Of Service</h1>
                 <p class="mt-6 text-lg leading-8 text-gray-300">We care about your privacy and we are committed to protecting it. This privacy policy outlines how we collect, use, and safeguard your personal information.</p>
                 <div class="mt-10 flex items-center gap-x-6">
                     <a href="/" class="rounded-md bg-green-300 px-3.5 py-2.5 text-sm font-semibold text-green-900 shadow-sm hover:bg-green-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-400">Home</a>
