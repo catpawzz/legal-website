@@ -13,8 +13,8 @@
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     <link rel="icon" href="favicon.png">
 
-    <meta name="description" content="CatKeys - Terms Of Service">
-    <meta name="author" content="CatKeys - Terms Of Service">
+    <meta name="description" content="LWC - Terms Of Service">
+    <meta name="author" content="LWC - Terms Of Service">
     <meta content="#80BD7EFF" data-react-helmet="true" name="theme-color">
     <meta property="og:image" content="favicon.png">
 </head>
